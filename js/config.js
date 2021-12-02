@@ -160,6 +160,7 @@ var l_musicPlaylist = [
 	{ogg: "theresnochristmaslikeahome.ogg", name: "Nations - Installation Music"},
 	{ogg: "rockinaroungchristmastrees.ogg", name: "Nations - Installation Music"},
 	{ogg: "herecomesanta.ogg", name: "Nations - Installation Music"},
+	{ogg: "workatapizzaplacechristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "whamlastchristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "whatifdsafcharactersxmas", name: "Nations - Installation Music"},
 	{ogg: "jinglebellrock.ogg", name: "Nations - Installation Music"},
