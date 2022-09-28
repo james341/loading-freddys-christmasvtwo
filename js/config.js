@@ -140,7 +140,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "securitybreachforever.ogg", name: "Nations - Installation Music"},
+	{ogg: "hollyjollychristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "davethemeend3.ogg", name: "Nations - Installation Music"},
 ];
 
