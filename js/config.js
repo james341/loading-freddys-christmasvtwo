@@ -142,6 +142,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "hollyjollychristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "lastchristmasinstrumental.ogg", name: "Nations - Installation Music"},
+	{ogg: "lastxhristmaswhammusicbox.ogg", name: "Nations - Installation Music"},
 	{ogg: "twelvedaysofchristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "jinglebellslnstrumental.ogg", name: "Nations - Installation Music"},
 	{ogg: "happychristmasbackground.ogg", name: "Nations - Installation Music"},
