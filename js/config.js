@@ -142,6 +142,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "hollyjollychristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "lastchristmasinstrumental.ogg", name: "Nations - Installation Music"},
+	{ogg: "merryfnafchristmasinstrumental.ogg", name: "Nations - Installation Music"},
 	{ogg: "lastxhristmaswhammusicbox.ogg", name: "Nations - Installation Music"},
 	{ogg: "twelvedaysofchristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "jinglebellslnstrumental.ogg", name: "Nations - Installation Music"},
@@ -175,7 +176,7 @@ var l_messages = [
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
 	"It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
+        "Dont Prop Abuse, Fly on a props / objects, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
