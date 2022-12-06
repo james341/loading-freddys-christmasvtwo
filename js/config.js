@@ -146,7 +146,7 @@ var l_musicPlaylist = [
 	{ogg: "twelvedaysofchristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "jinglebellslnstrumental.ogg", name: "Nations - Installation Music"},
 	{ogg: "happychristmasbackground.ogg", name: "Nations - Installation Music"},
-	{ogg: "davethemeend3.ogg", name: "Nations - Installation Music"},
+	{ogg: "twinmusicomchristmas.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
