@@ -142,9 +142,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "Nations - Installation Music"},
 	{ogg: "genbellsch.ogg", name: "Nations - Installation Music"},
-	{ogg: "dekthehch.ogg", name: "Nations - Installation Music"},
 	{ogg: "whenchristmascomestowntpx.ogg", name: "Nations - Installation Music"},
-	{ogg: "twelvedaysofchristmas.ogg", name: "Nations - Installation Music"},
 	{ogg: "jinglebellslnstrumental.ogg", name: "Nations - Installation Music"},
 	{ogg: "happychristmasbackground.ogg", name: "Nations - Installation Music"},
 	{ogg: "twinmusicomchristmas.ogg", name: "Nations - Installation Music"},
