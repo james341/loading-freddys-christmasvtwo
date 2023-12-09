@@ -110,16 +110,6 @@ var l_bgImages = [
 	"image36.jpg",
 	"image37.jpg",
 	"image38.jpg",
-	"image39.jpg",
-	"image40.jpg",
-	"image41.jpg",
-	"image42.jpg",
-	"image43.jpg",
-	"image44.jpg",
-	"image45.jpg",
-	"image46.jpg",
-	"image47.jpg",
-	"image48.jpg",
 ];
 
 // (Image-background only)
