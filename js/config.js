@@ -178,7 +178,7 @@ var l_messages = [
 	"Discussing raids or participating in the raids of other servers will not be tolerated here. Raiding another server may result in a permanent ban from this one!",
 	"These rules will continue to evolve over time. This means we may take action against a user or content that violates the spirit of these guidelines when we encounter a new threat or harm that is not explicitly covered in the current version!",
 	"Any posted content that the admins or moderators find suggestively offensive in the channels, depending on the situation, will result in anything from a warning to a possible ban!",
-	"Questions or concerns? If you happen to have a question or concern about any of these rules, please contact us at support@banabyte.com!",
+	"Questions or concerns? If you happen to have a question or concern about any of these rules, please contact us immediately!",
 	"It’s unacceptable to attack a person or a community based on attributes such as their race, ethnicity, caste, national origin, sex, gender identity, gender presentation, sexual orientation, religious affiliation, age, serious illness, disabilities, or other protected classifications!",
 	"Do not make threats of violence or threaten to harm others. This includes indirect or suggestive threats, as well as sharing or threatening to share someone’s personally identifiable information (also known as doxxing!",
 	"Disagreements happen and are normal, but making continuous, repetitive, or severe negative comments or circumventing a block or ban can cross the line into harassment and is not okay!",
