@@ -155,7 +155,7 @@ var l_musicPlaylist = [
 	{ogg: "christmasvillage.ogg", name: "{AN} - Installation Music"},
 	{ogg: "royaltyfreebackgroundmusicvideos.ogg", name: "{AN} - Installation Music"},
 	{ogg: "workatapizzaplacechristmas.ogg", name: "{AN} - Installation Music"},
-	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "{AN} - Installation Music"},
+	{ogg: "thepizzeria.ogg", name: "{AN} - Installation Music"},
 	{ogg: "jinglebellslnstrumental.ogg", name: "{AN} - Installation Music"},
 	{ogg: "happychristmasbackground.ogg", name: "{AN} - Installation Music"},
 	{ogg: "twinmusicomchristmas.ogg", name: "{AN} - Installation Music"},
