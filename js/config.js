@@ -151,12 +151,13 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "Nations - Installation Music"},
-	{ogg: "christmasvillage.ogg", name: "Nations - Installation Music"},
-	{ogg: "workatapizzaplacechristmas.ogg", name: "Nations - Installation Music"},
-	{ogg: "jinglebellslnstrumental.ogg", name: "Nations - Installation Music"},
-	{ogg: "happychristmasbackground.ogg", name: "Nations - Installation Music"},
-	{ogg: "twinmusicomchristmas.ogg", name: "Nations - Installation Music"},
+	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "{AN} - Installation Music"},
+	{ogg: "christmasvillage.ogg", name: "{AN} - Installation Music"},
+	{ogg: "workatapizzaplacechristmas.ogg", name: "{AN} - Installation Music"},
+	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "{AN} - Installation Music"},
+	{ogg: "jinglebellslnstrumental.ogg", name: "{AN} - Installation Music"},
+	{ogg: "happychristmasbackground.ogg", name: "{AN} - Installation Music"},
+	{ogg: "twinmusicomchristmas.ogg", name: "{AN} - Installation Music"},
 ];
 
 // Random music order?
