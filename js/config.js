@@ -159,7 +159,6 @@ var l_musicPlaylist = [
 	{ogg: "noclopyrightchristmasbackgroundmusic.ogg", name: "{AN} - Installation Music"},
 	{ogg: "christmas.ogg", name: "{AN} - Installation Music"},
 	{ogg: "happychristmasbackground.ogg", name: "{AN} - Installation Music"},
-	{ogg: "thepizzeria.ogg", name: "{AN} - Installation Music"},
 	{ogg: "lastchristmas.ogg", name: "{AN} - Installation Music"},
 	{ogg: "happychristmasbackground.ogg", name: "{AN} - Installation Music"},
 	{ogg: "twinmusicomchristmas.ogg", name: "{AN} - Installation Music"},
@@ -248,4 +247,5 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
