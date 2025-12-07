@@ -152,6 +152,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "{AN} - Installation Music"},
+	{ogg: "christmasIgaveyoumyheart.ogg", name: "{AN} - Installation Music"},
 	{ogg: "christmasvillage.ogg", name: "{AN} - Installation Music"},
 	{ogg: "royaltyfreebackgroundmusicvideos.ogg", name: "{AN} - Installation Music"},
 	{ogg: "workatapizzaplacechristmas.ogg", name: "{AN} - Installation Music"},
@@ -247,3 +248,4 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
