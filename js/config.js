@@ -153,6 +153,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "{AN} - Installation Music"},
 	{ogg: "christmasIgaveyoumyheart.ogg", name: "{AN} - Installation Music"},
+	{ogg: "christmasmusicholidaysnocr.ogg", name: "{AN} - Installation Music"},
 	{ogg: "christmasvillage.ogg", name: "{AN} - Installation Music"},
 	{ogg: "royaltyfreebackgroundmusicvideos.ogg", name: "{AN} - Installation Music"},
 	{ogg: "workatapizzaplacechristmas.ogg", name: "{AN} - Installation Music"},
@@ -182,19 +183,24 @@ var l_messages = [
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "ERP (Erotic Roleplay) is strictly prohibited. Engaging in ERP violates server rules and will result in an immediate ban. We kindly ask you to respect the community guidelines!",
 	"Respect Everyone - Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech!",
+	"Porn or gore is strictly prohibited this is a community with minors present. Prolonged inappropriate conversations or tasteless jokes will lead to warnings. Keep that behaviour out of here!",
+	"If someone is bullying or harassing you, or breaking any server rules, please report them to a staff member or moderator. Providing as much information as possible will help us respond more quickly!",
 	"We don’t condone racism, homophobia, transphobia, or sexism in any form. No targeted harassment in general. Get that shit outta here. For the love of god no rape jokes and no hateful language or jokes. Use of hateful imagery (such as swastikas, black sun, confederate flag etc.) will also be punished!",
 	"No porn, no gore, there are kids here. Lengthy discussions of inappropriate topics or jokes in poor taste will get you warned so go be horny somewhere else!",
+	"If someone is bullying, harassing, or breaking any server rules, report them to staff or a moderator immediately!",
 	"If you have an argument with another member(s) of this server, please contact a moderator or admin immediately so we can dispute the matter. This is supposed to be a fun place, so if you have to have an argument, please do it in PM!",
 	"Discussing raids or participating in the raids of other servers will not be tolerated here. Raiding another server may result in a permanent ban from this one!",
 	"Promoting your own company or organization outside of the server is not allowed unless you have permission from the founders. However, in-game businesses are permitted!",
-	"Listen to Staff - Respect the decisions of our moderators and staff!",
+	"We don’t allow talk of raids or participation in raids on other servers. Doing so may result in a permanent ban!",
 	"Within our community, the discussion or active involvement in raids on other servers is not endorsed. Participation in such activities may result in a permanent ban from our server!",
 	"Please refrain from metagaming. Actions such as issuing warrants based solely on auditory cues like money printers or meth labs through walls, or relying on information derived from the killfeed, are not permissible!",
+	"No porn and no gore. There are kids here. Lengthy discussions of inappropriate topics or jokes in poor taste will result in a warning. Take that elsewhere!",
 	"Do not degrade or harass a person based on gender, age, race, sexuality, or religious preference. -- This is 2018. Not the 1940s and 50s. Do not disclose the personal information of another person, such as an address, phone number, geographical location, photos, or other personally identifying information, without explicit consent from the person. In the event of a player or staff member breaking a rule associated with our Discord server, we will operate according to the guidelines set below when it comes to resolution and infraction consequences based on the severity of the infraction. The consequences below are in order of severity, and the staff has sole discretion to skip a lesser punishment if they deem the infraction to be more severe than what the consequence calls for. The individual(s) must be issued a written or verbal warning!",
 	"Our community management reserves the right to modify the rules at any time without prior notice. Please ensure you stay informed about the latest updates!",
 	"I am a player, and I respectfully disagree with the actions taken by the administration on this server. However, if you find yourself in disagreement with the reason for a kick or ban, you are always free to explore and play on other servers. Please remember that all Garry's Mod servers are community-hosted, and access to them is ultimately at the discretion of their respective administrations!",
 	"Any posted content that the admins or moderators find suggestively offensive in the channels, depending on the situation, will result in anything from a warning to a possible ban!",
 	"Do not arrange, encourage, or take part in any unlawful or hazardous activity. such as sexual solicitation, human trafficking, and selling or facilitating the sale of prohibited or potentially dangerous goods (firearms, ammunition, drugs and controlled substances). These will probably get you banned from the community and may get you reported to law enforcement!",
+	"If you are being bullied, harassed, or if anyone is breaking server rules, report it immediately to a staff member or moderator. The more information you provide, the faster we can act!",
 	"Be Respectful Discrimination, slurs, or offensive remarks about race, gender, sexuality, religion, or any personal characteristics are prohibited. While light swearing is acceptable, excessive use should be avoided. Harassment in any form will not be tolerated!",
 	"It’s unacceptable to attack a person or a community based on attributes such as their race, ethnicity, caste, national origin, sex, gender identity, gender presentation, sexual orientation, religious affiliation, age, serious illness, disabilities, or other protected classifications!",
 	"Be Respectful Discrimination, slurs, or offense to any race, gender, sexuality, religion, or personal characteristics of any kind will not be tolerated. Light swearing may be used but excessive usage is discouraged. Harassment in any form will not be tolerated!",
@@ -208,6 +214,7 @@ var l_messages = [
 	"Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
 	"Please do not talk about killing yourself, being worthless, venting your struggles, etc. on this public server. Moderators and other members of the server are not therapists and may not offer the best advice. If you're struggling, we recommend talking to close friends and/or family in a private setting or reaching out for professional medical help. A public discord is not best suited to discussing these issues!",
 	"Fail RP is defined as performing an action or behaving in a way which breaks or inhibits roleplay in any manner. This can include, but is not limited to, bunnyhopping, using /advert OOCly, having an invalid name, necksnapping EOD/OSS, making callouts after you die, prop killing with anything other than rollermines/manhacks, acting conversely to the implied role of a specialized class (such as not attempting to blend in as a disguised SU or kill farming as a pushback class), and/or disrupting the gameplay of others (such as by micspamming!",
+	"Our community does not allow the discussion or organization of raids against other servers. Engaging in these activities can lead to a permanent ban!",
 	"If what you're doing or are about to do isn't listed here and you're curious, ask a staff member. If one is not available, use common sense. If you can't find an answer, contact a Head Admin+. Server management has the final say over IC situations!",
 	"Exploiting bugs, glitches, map features (such as going out of bounds or standing on the very edges of a map), or loopholes in the rules is prohibited. Abusing an exploit for any reason is punishable!",
 	"If someone is bullying or harassing you or breaking any server rules, you should report them to a staff member or moderator of the server. Giving us as much information as possible will speed up our response time!",
@@ -247,5 +254,6 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
