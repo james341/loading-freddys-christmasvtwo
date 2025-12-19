@@ -153,6 +153,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "{AN} - Installation Music"},
 	{ogg: "christmasvillage.ogg", name: "{AN} - Installation Music"},
+	{ogg: "genbellsch.ogg", name: "{AN} - Installation Music"},
 	{ogg: "thetrapezistjoMogK0wzXI.ogg", name: "{AN} - Installation Music"},
 	{ogg: "whamlastchristmasInstrumental.ogg", name: "{AN} - Installation Music"},
 	{ogg: "chdsaflipsidetheme.ogg", name: "{AN} - Installation Music"},
@@ -161,7 +162,6 @@ var l_musicPlaylist = [
 	{ogg: "christmasvillage.ogg", name: "{AN} - Installation Music"},
 	{ogg: "royaltyfreebackgroundmusicvideos.ogg", name: "{AN} - Installation Music"},
 	{ogg: "iwantchristmasInstrumental.ogg", name: "{AN} - Installation Music"},
-	{ogg: "workatapizzaplacechristmas.ogg", name: "{AN} - Installation Music"},
 	{ogg: "noclopyrightchristmasbackgroundmusic.ogg", name: "{AN} - Installation Music"},
 	{ogg: "christmas.ogg", name: "{AN} - Installation Music"},
 	{ogg: "happychristmasbackground.ogg", name: "{AN} - Installation Music"},
@@ -191,7 +191,7 @@ var l_messages = [
 	"Pornographic or gory content is strictly prohibited, as this community includes minors. Prolonged inappropriate conversations or tasteless jokes will result in warnings. Keep this behavior out of here!",
 	"Porn or gore is strictly prohibited this is a community with minors present. Prolonged inappropriate conversations or tasteless jokes will lead to warnings. Keep that behaviour out of here!",
 	"Racism, sexism, homophobia, etc. are not allowed. (Unless it’s actually funny then we’ll think about it!",
-	"English is the only permitted language. Translation is allowed!",
+	"We respect your privacy. We do not collect, store, or sell personal information, and we will never use it against you!",
 	"Our community management retains the right to revise these rules at any time without prior notice. Please ensure you remain informed of the most recent updates!",
 	"Refrain from posting another’s personal information. This includes the person’s name, address, location, contact information, photos, etc!",
 	"Do not post another person’s personal information. This includes names, addresses, locations, contact details, photos, or any other identifying information!",
@@ -203,11 +203,13 @@ var l_messages = [
 	"We don’t condone racism, homophobia, transphobia, or sexism in any form. No targeted harassment in general. Get that shit outta here. For the love of god no rape jokes and no hateful language or jokes. Use of hateful imagery (such as swastikas, black sun, confederate flag etc.) will also be punished!",
 	"Sharing or distributing another person’s personal information is not permitted. This includes names, addresses, locations, contact information, photos, and similar identifying details!",
 	"No porn, no gore, there are kids here. Lengthy discussions of inappropriate topics or jokes in poor taste will get you warned so go be horny somewhere else!",
+	"Your privacy matters. We don’t collect or sell personal information, and nothing you share will ever be used against you!",
 	"If someone is bullying, harassing, or breaking any server rules, report them to staff or a moderator immediately!",
 	"If you have an argument with another member(s) of this server, please contact a moderator or admin immediately so we can dispute the matter. This is supposed to be a fun place, so if you have to have an argument, please do it in PM!",
 	"Discussing raids or participating in the raids of other servers will not be tolerated here. Raiding another server may result in a permanent ban from this one!",
 	"Promoting your own company or organization outside of the server is not allowed unless you have permission from the founders. However, in-game businesses are permitted!",
 	"We don’t allow talk of raids or participation in raids on other servers. Doing so may result in a permanent ban!",
+	"Community management reserves the right to update these rules at any time. Members are expected to remain aware of and comply with the latest version!",
 	"Within our community, the discussion or active involvement in raids on other servers is not endorsed. Participation in such activities may result in a permanent ban from our server!",
 	"Please refrain from metagaming. Actions such as issuing warrants based solely on auditory cues like money printers or meth labs through walls, or relying on information derived from the killfeed, are not permissible!",
 	"No porn and no gore. There are kids here. Lengthy discussions of inappropriate topics or jokes in poor taste will result in a warning. Take that elsewhere!",
@@ -222,7 +224,7 @@ var l_messages = [
 	"Hate Content & Explicit Material: Posting adult content, graphic images, or any form of hate content on our Discord services is strictly prohibited. Violators will be banned. This rule also applies to offensive reactions, profile pictures, and bios!",
 	"Only English is permitted. Translations are allowed!",
 	"We respect your privacy. We do not collect, store, or sell your personal information, and we will never use it against you!",
-	"No other languages other than English, translating is allowed!",
+	"These rules may be updated by community management at any time. Please check back regularly to stay informed of any changes!",
 	"RDM is forbidden. Every act of violence must have a clear in character reason!",
 	"We uphold a strict zero-tolerance policy regarding sensitive content, including but not limited to pornography, pedophilia, and graphic violence. Any violation will result in immediate action, which may include a mute, kick, or ban!",
 	"Do not join voice chat channels without permission of the people already in there If you see that they have a free spot it is alright to join and ask whether they have an open spot, but leave if your presence is not wanted by whoever was there first!",
@@ -252,7 +254,7 @@ var l_messages = [
 	"Any threats of violence or harm are not allowed. This includes indirect or implied threats and any attempt to share or threaten to share personal or identifying information!",
 	"Disagreements are normal and expected, but repeatedly making negative comments or attempting to bypass a block or ban is considered harassment and will not be tolerated!",
 	"Our community management reserves the right to modify the rules at any time without prior notice. Please ensure you stay informed about the latest updates!",
-	"Community management reserves the right to amend these rules at any time, with or without prior notice. It is your responsibility to remain informed of any updates!",
+	"Management may amend these rules at its discretion, with or without prior notice. Continued participation implies acceptance of any changes!",
 	"I am a player, and I respectfully disagree with the actions taken by the administration on this server. However, if you find yourself in disagreement with the reason for a kick or ban, you are always free to explore and play on other servers. Please remember that all Garry's Mod servers are community-hosted, and access to them is ultimately at the discretion of their respective administrations!",
 	"Any posted content that the admins or moderators find suggestively offensive in the channels, depending on the situation, will result in anything from a warning to a possible ban!",
 	"Do not arrange, encourage, or take part in any unlawful or hazardous activity. such as sexual solicitation, human trafficking, and selling or facilitating the sale of prohibited or potentially dangerous goods (firearms, ammunition, drugs and controlled substances). These will probably get you banned from the community and may get you reported to law enforcement!",
@@ -311,6 +313,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
