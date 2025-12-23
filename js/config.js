@@ -198,7 +198,7 @@ var l_messages = [
 	"Do not post another person’s personal information. This includes names, addresses, locations, contact details, photos, or any other identifying information!",
 	"Nicknames containing inappropriate content, or a violation of any rule, are prohibited within this server!",
 	"Advertising any other company is prohibited within this server without written consent from the AN Executive Team. This includes DM advertising!",
-	"Be polite, friendly and courteous to your fellow users. In the Discord server Please Don't ping users to get their attention or reply to unrelated messages!",
+	"Be Courteous to your fellow users. In the Discord server Please Don't ping users to get their attention or reply to unrelated messages!",
 	"Everyone is expected to use common sense. While these rules may not cover every possible situation, any action taken with malicious intent will result in a ban!",
 	"If someone is bullying or harassing you, or breaking any server rules, please report them to a staff member or moderator. Providing as much information as possible will help us respond more quickly!",
 	"We don’t condone racism, homophobia, transphobia, or sexism in any form. No targeted harassment in general. Get that shit outta here. For the love of god no rape jokes and no hateful language or jokes. Use of hateful imagery (such as swastikas, black sun, confederate flag etc.) will also be punished!",
@@ -209,7 +209,7 @@ var l_messages = [
 	"If you have an argument with another member(s) of this server, please contact a moderator or admin immediately so we can dispute the matter. This is supposed to be a fun place, so if you have to have an argument, please do it in PM!",
 	"Discussing raids or participating in the raids of other servers will not be tolerated here. Raiding another server may result in a permanent ban from this one!",
 	"Promoting your own company or organization outside of the server is not allowed unless you have permission from the founders. However, in-game businesses are permitted!",
-	"We don’t allow talk of raids or participation in raids on other servers. Doing so may result in a permanent ban!",
+	"No Camping: The Animatronics should not be camping in one location, such as the office, for extended periods unless it aligns with RP or game mechanics!",
 	"Community management reserves the right to update these rules at any time. Members are expected to remain aware of and comply with the latest version!",
 	"Within our community, the discussion or active involvement in raids on other servers is not endorsed. Participation in such activities may result in a permanent ban from our server!",
 	"Please refrain from metagaming. Actions such as issuing warrants based solely on auditory cues like money printers or meth labs through walls, or relying on information derived from the killfeed, are not permissible!",
@@ -218,18 +218,17 @@ var l_messages = [
 	"Please Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
 	"No Griefing or Raiding: Respect other players' builds and property. Griefing, raiding, or stealing without valid roleplay justification is strictly Prohibited!",
 	"Golden Freddy Plush. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
+	"Posting another person’s personal or identifying information is strictly prohibited, including names, addresses, locations, contact details, photos, or similar data!",
 	"If there’s a problem, just reach out to our staff we’re happy to help! Please don’t file a chargeback, as it will lead to a ban!",
 	"Offensive slurs, antisemitism, racism, homophobia, whiteshaming, absolutely any promotion of extremist views/political ideologies are not allowed. Breaking this rule either leads to 4 days of isolation, or immediate ban!",
 	"We uphold a strict zero-tolerance policy regarding sensitive content, including—but not limited to—pornography, pedophilia, and graphic violence. Posting such material will lead to immediate consequences, such as a mute, kick, or ban!",
-	"No languages other than English are permitted; translations are allowed!",
+	"Use common sense when participating and chatting on the server. Avoid encouraging others to break rules, spamming staff, or engaging in disruptive behavior. Think before you act!",
 	"Hate Content & Explicit Material: Posting adult content, graphic images, or any form of hate content on our Discord services is strictly prohibited. Violators will be banned. This rule also applies to offensive reactions, profile pictures, and bios!",
-	"Only English is permitted. Translations are allowed!",
-	"We respect your privacy. We do not collect, store, or sell your personal information, and we will never use it against you!",
-	"These rules may be updated by community management at any time. Please check back regularly to stay informed of any changes!",
 	"RDM is forbidden. Every act of violence must have a clear in character reason!",
 	"We uphold a strict zero-tolerance policy regarding sensitive content, including but not limited to pornography, pedophilia, and graphic violence. Any violation will result in immediate action, which may include a mute, kick, or ban!",
 	"Do not join voice chat channels without permission of the people already in there If you see that they have a free spot it is alright to join and ask whether they have an open spot, but leave if your presence is not wanted by whoever was there first!",
 	"No condone of racism, homophobia, transphobia, or sexism in any form. No targeted harassment in general. Get that shit outta here. For the love of god no rape jokes and no hateful language or jokes. Use of hateful imagery (such as swastikas, black sun, confederate flag etc.) will also be punished!",
+	"We are committed to ensuring everyone has a pleasant experience here. If you have any questions or need assistance, please feel free to reach out to our staff — they’re always happy to help!",
 	"We are committed to ensuring that everyone enjoys a pleasant experience here. If you have any questions or need assistance, please feel free to reach out to our staff they are always ready to help!",
 	"The use of slurs, such as the N-word, is strictly prohibited. Violations will result in a one-hour timeout as a warning. You will receive up to two warnings; any further violations will lead to removal from the platform!",
 	"Your donation status does not change the fact that you are a valued member of our community. However, it does not place you above our rules or any other expectations. You are still required to follow our guidelines!",
@@ -237,6 +236,7 @@ var l_messages = [
 	"Do not discuss about sensitive topics This isn't a debating server, keep sensitive topics out of here so we don't have a ton of nasty arguments!",
 	"Attacking with splash damage through props, walls, or beyond the pizzeria's territory is strictly forbidden. Intentionally attacking animatronics and plush toys outside the pizzeria's territory is also prohibited. Climbing stairs is not allowed (except for Purple Guy in the guise of a security guard). Punishment: Warning / 10-20 minute ban!",
 	"Metagaming and exploiting in-roleplay situations are strictly prohibited, as these actions undermine the immersive experience and detract from the enjoyment of those who approach roleplay with sincerity and dedication!",
+	"Threats against any member will not be tolerated. This includes death threats, scamming, blackmail, and suspicious links or websites claiming to offer free items. Ensure that everything you post complies with the law!",
 	"No RDM (Random Deathmatch): Attacking or killing other players without a valid in-roleplay reason is strictly prohibited!",
 	"It's forbidden to stay in the back rooms of the pizzeria during the day (excl. Broken animatronics and plush toys in the basement) Punishment: warn / Ban 10-20min!",
 	"KOS signs must be clearly placed at the entrance of a KOS area and should be appropriately sized and colored for visibility. Any attempts to bait players into areas with unclear or obscure KOS signs will result in staff-issued punishment!",
@@ -268,6 +268,7 @@ var l_messages = [
 	"Finally, have fun! We want you to have fun and enjoy our finest community, as well as talk to other members and shit! Thanks for reading this set of rules, and please be sure to follow them to keep this server an enjoyable environment! Thanks, and enjoy your stay!",
 	"Treat everyone here with respect and kindness. Avoid any behavior or remarks that could be perceived as rude or hurtful, as everyone deserves to feel comfortable and welcome!",
 	"It is your responsibility to read and abide by our server rules. These may change over time. Failure to follow will result in punishment. This is a simple list. Follow, and you'll do great!",
+	"Under no circumstances should props be abused in any way, shape, or form. This includes prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Be Respectful: Racism, homophobia, transphobia, sexism, and any form of targeted harassment have no place here. Keep that out of any Discord, GMod server, or ETA-related spaces. Absolutely no rape jokes, hateful language, or hate symbols (e.g., swastikas, Black Sun, Confederate flag). Violations will result in strict consequences!",
 	"No Self-Promotion: Please don’t spam your mixtape we're begging you! Jokes aside, feel free to share your work, but if that’s all you’re here for, trust us, we’ll notice!",
 	"Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
@@ -279,7 +280,7 @@ var l_messages = [
 	"Exploiting bugs, glitches, map features (such as going out of bounds or standing on the very edges of a map), or loopholes in the rules is prohibited. Abusing an exploit for any reason is punishable!",
 	"If someone is bullying or harassing you or breaking any server rules, you should report them to a staff member or moderator of the server. Giving us as much information as possible will speed up our response time!",
 	"Animatronics are permitted to KOS (Kill on Sight) from 12:00 AM to 5:00 AM in-game time. During these hours, as the restaurant is closed, they are allowed to eliminate you if you're inside!",
-        "We do not provide refunds for donations or packages such as VIP, PAC3 Access, etc. There are no change-of-mind refunds on sale items. AN does not have a contractual obligation to provide donation packages. Donation packages can be revoked, and art subjects can be changed!",
+    "We do not provide refunds for donations or packages such as VIP, PAC3 Access, etc. There are no change-of-mind refunds on sale items. AN does not have a contractual obligation to provide donation packages. Donation packages can be revoked, and art subjects can be changed!",
 	"Our community enforces a strict zero-tolerance policy towards any form of paedophilia, child exploitation, or grooming. Any individual found engaging in, promoting, or supporting such activities will be immediately blacklisted and banned from our platforms!",
 	"It Is forbidden to attack with a splash through props, walls, or outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "Offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
@@ -314,6 +315,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
