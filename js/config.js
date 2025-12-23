@@ -153,6 +153,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "arianagrandesantatellmeinstrumental.ogg", name: "{AN} - Installation Music"},
 	{ogg: "christmasvillage.ogg", name: "{AN} - Installation Music"},
+	{ogg: "christmaskeysofmoon.ogg", name: "{AN} - Installation Music"},
 	{ogg: "genbellsch.ogg", name: "{AN} - Installation Music"},
 	{ogg: "thetrapezistjoMogK0wzXI.ogg", name: "{AN} - Installation Music"},
 	{ogg: "whamlastchristmasInstrumental.ogg", name: "{AN} - Installation Music"},
@@ -313,6 +314,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
